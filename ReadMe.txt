@@ -1,0 +1,1 @@
+Image super resolution using Deep-convolutional neural networksThis project used the deep-convolutional neural networks approach describe in the paper “Image Super-Resolution Using Deep Convolutional Networks” by Chao Dong et al.
